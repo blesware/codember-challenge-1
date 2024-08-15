@@ -17,5 +17,7 @@ gato2perro3coche1sol1
 
 # ** Más ejemplos: **
 llaveS casa CASA casa llaves -> llaves2casa3
+
 taza ta za taza -> taza2ta1za1
+
 casas casa casasas -> casas1casa1casas1
